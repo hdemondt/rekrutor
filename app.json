@@ -1,6 +1,6 @@
 {
-  "name": "Smooch Bot Example App",
-  "description": "Smooch Bot example using Express",
+  "name": "Rekrutor Bot",
+  "description": "Rekrutor Bot using Express",
   "keywords": ["smooch", "bot", "express"],
   "website": "https://smooch.io",
   "repository": "https://github.com/smooch/smooch-bot-example",
